@@ -17,3 +17,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8888/eureka
 #      ,http://localhost:9999/eureka
+
+xxb: xingxianbao
