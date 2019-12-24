@@ -1,4 +1,4 @@
-xxb: 8787
+xxb: 8989
 server:
   port: ${xxb}
 spring:
