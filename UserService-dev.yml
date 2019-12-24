@@ -1,5 +1,6 @@
+xxb: 8787
 server:
-  port: 8001
+  port: {xxb}
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/spring_test
@@ -18,4 +19,4 @@ eureka:
       defaultZone: http://localhost:8888/eureka
 #      ,http://localhost:9999/eureka
 
-xxb: xingxianbao111111111@@@@@@@@
+
